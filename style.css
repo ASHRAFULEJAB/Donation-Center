@@ -95,4 +95,93 @@
     padding-top: 5%;
 }
 
+#donationplan-para{
+    text-align: center;
     
+}
+.donateplan-title{
+    text-align: center;
+    padding-top: 2%;
+    font-weight: 900;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+}
+.donateplan-part{
+    width: 50px;
+    height: 50px;
+    margin-left:20px;
+    margin-top: 35px;
+   margin-bottom: 20px;
+}
+.donatepart-header {
+  margin-top: 20px;
+  margin-left:15px;
+  font-weight: 500;
+  font-size: 20px;
+  
+
+}
+.donateplan-des{
+    margin-left: 3px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    
+}
+.donatesection1{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border: 1px  gray;
+    background-color: gray;
+    color: black;
+    
+}
+.donatesection2{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border: 1px  gray;
+    background-color: rgba(77, 188, 216, 0.849);
+    color: aliceblue;
+}
+.donatesection3{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border: 1px  gray;
+    background-color: rgb(203, 238, 157);
+}
+.donatesection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-class{
+    width: 100vw;
+    height: 30vh;
+    background-color: black;
+    margin-top: 900px;
+    
+}
+.footer-title{
+    color: tomato;
+    margin: 10px 40px;
+    padding-top: 3%;
+    text-align: center
+    
+}
+#footer-firstpara{
+    text-align: center;
+}
+#footer-lastpara{
+    margin-top: 20px;
+}
+.footer-end{
+    color: tomato;
+    text-align: center;
+}
