@@ -82,6 +82,11 @@
     border-bottom: 1px solid rgb(128, 128, 128) ;
     color: grey;
 }
+#donationinputtype{
+    width:670px;
+    text-align: center;
+    border: none;
+}
 .donation-link{
     text-decoration: none;
     font-weight: bold;
@@ -196,6 +201,8 @@
     text-align: center;
     margin-left: 50px;
  }
+
+ /* middle-last-part */
 
  .middlelastflex{
      display: flex;
