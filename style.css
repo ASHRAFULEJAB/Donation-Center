@@ -95,6 +95,8 @@
     padding-top: 5%;
 }
 
+/* Third Section */
+
 #donationplan-para{
     text-align: center;
     
@@ -161,11 +163,87 @@
     justify-content: center;
     align-items: center;
 }
+
+
+/* middle-part */
+
+.middle-part{
+    display: flex;
+    margin-top: 20px;
+}
+
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.middletitle{
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 20px;
+ }
+ #middle-para{
+    margin-bottom: 50px;
+    margin-left: 20px;
+ }
+ #middlepart-img{
+    width: 38vw;
+    height: 45vh;
+    border-radius: 2%;
+ }
+ #middle-banner{
+    text-align: center;
+    margin-left: 50px;
+ }
+
+ .middlelastflex{
+     display: flex;
+     align-items: center;
+     width: 800px;
+     height: 100px;
+     border: 1px gray;
+     margin-left: 320px;
+     margin-top: 40px;
+     background-color: rgb(128, 128, 128);
+ }
+
+ #middlelast{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+ }
+#middlelastpara{
+    text-align: center;
+    font-size: 15px;
+    
+}
+#inputformbig{
+    width: 190px;
+    height: 36px;
+    margin-top: 80px;
+}
+
+.middleemail{
+
+   height: 200px;
+    margin-left: 200px;
+    /* margin-bottom: 30px; */
+}
+#middlelastbtn{
+    margin-left: -4px;
+    margin-bottom: 4px;
+    
+}
+
+/* Footer Part */
 .footer-class{
     width: 100vw;
     height: 30vh;
     background-color: black;
-    margin-top: 900px;
+    margin-top: 300px;
     
 }
 .footer-title{
